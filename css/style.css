@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding: 0;
+} 
+
+body{
+    
+}
+
+.containerPaiImgTracinho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    color: white;
+    height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* #containerImg{
+    display: inline;
+    
+} */
+
+#imagem{
+    width: 80px;
+}
+
+#containerTracinho{
+    margin: 0 20px;
+}
+
+#tracinho{
+    font-size: 30px;
+    /*padding: 15px 50px 50% 0 ;*/
+    
+}
+
+#nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.container-buscar{
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+    
+}
